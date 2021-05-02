@@ -1,8 +1,8 @@
 ::-moz-selection {
-    background: yellow;
+    background: #aafb77;
   }
   ::selection {
-    background: yellow;
+    background: #aafb77;
   }
   *,
   *:before,
@@ -839,8 +839,8 @@
     vertical-align: top;
     position: relative;
   }
-  .color.midnightblue:before {
-    background-color: midnightblue;
+  .color.green:before {
+    background-color: green;
   }
   .color.chartreuse:before {
     background-color: chartreuse;
